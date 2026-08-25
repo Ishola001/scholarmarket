@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/bulk-licensing-guide",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/bulk-licensing-guide": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/bulk-licensing-guide",
+    "origin"
+  ]
+}
